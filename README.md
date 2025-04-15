@@ -1,4 +1,4 @@
-- 👋 Hallo, I’m @AliSolaxay35
+- 👋 Hallo,I’m @AliSolaxay35
 - 🏢 <img src="https://i.ibb.co/Css8XWNx/eba21615fa69.jpg" width="200">
 - 👀 About Me:I'm Passionate About Learning Python And AI Tools To Eventually Launch A Startup Focused On AI In Clinical Trials.
 - 🌱 I'm Currently Diving Into Python,Its Libraries,And MySQL;After Mastering These,My Next Goal Is To Explore MachineLearning And DeepLearning.
