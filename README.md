@@ -1,5 +1,5 @@
 - 👋 Hallo,I’m @AliSolaxay35
-- 🏢 <img src="https://media-hosting.imagekit.io/b08469e1bba24f0a/1000007624.jpg?Expires=1839397249&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cjAW5i26wLNsSqj6Drqw5bn4w9XU3x87uCJA7gjF5HHq2tvEErhJrOsUEFi9C8jole8JGVzniaxkzYEXdl1BNYlNOKKwR9YJgp5f4pH3lnOkpyMGxQufSi1jK7sE-Uligm8BqyXVbDbXdeU07Fzh9WsUUyfJyewSjnRO8SrxfArE1L60N2IhUM5H2rHjrBQssR9nE49ks6WcmmmHK4nTDEsi3b~14n7cFjRG1gFt1FSmqUy6sm5MD5aU~UknEbJiOcSQghI~oaRhEzLUmY4ijfovJX4KimFRCewSe6u4YjD4xK1QIDdozrt3NhF5fpllH2UiBDIIyivhN9iF-TjWug__" width="200"/>
+- 🏢 https://i.postimg.cc/mD3T5Kzw/PSX-20250622-224359.jpg 
 - 👀 About Me:I'm Passionate About Learning Python And AI Tools To Eventually Launch A Startup Focused On AI In Clinical Trials.
 - 🌱 I'm Currently Diving Into Python,Its Libraries,And MySQL;After Mastering These,My Next Goal Is To Explore MachineLearning And DeepLearning.
 - 💞️ I’m Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence To Improve My Skills And Grow Together.
