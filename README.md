@@ -1,11 +1,17 @@
-- 👋 Hallo,I’m @AliSolaxay35
-- 🏢 ![Wolf Lymphocyte Technology](https://i.postimg.cc/mD3T5Kzw/PSX-20250622-224359.jpg)
+- 👋 Hallo,I’m @AliSolaxay35.
+- 🏗️ <p align="center">
+  <img src="https://i.postimg.cc/9Mh8Wkb7/Untitled-Nero-AI-Image-Upscaler-Photo.jpg" alt="Brief Introduction - WLT" width="80%" />
+</p> 
+
 - 👀 About Me:I'm Passionate About Learning Python And AI Tools To Eventually Launch A Startup Focused On AI In Clinical Trials.
 - 🌱 I'm Currently Diving Into Python,Its Libraries,And MySQL;After Mastering These,My Next Goal Is To Explore MachineLearning And DeepLearning.
 - 💞️ I’m Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence To Improve My Skills And Grow Together.
 - 📫 Contact:
 - Email:alisolaxay35wlt@gmail.com.
-- 🩻 <img src="https://i.ibb.co/7N0JxkrX/f2f5cf552a36.png" width="200">
+- 🩻 <p align="center">
+  <img src="https://i.ibb.co/7N0JxkrX/f2f5cf552a36.png" alt="The Future Of Medical Science With AI" width="80%" />
+</p>  
+
 - 🧠 Extra Info:
 - 🐺 I'm The Lone Wolf Of The Cruel World Of Coding - But Hey,Sometimes We Find Collaborators.
 - 🏕️ I Love Traveling And Exploring Nature.
