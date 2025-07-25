@@ -13,7 +13,7 @@
 </p>  
 
 - 🧠 Extra Info:
-- 🐺 I'm The Lone Wolf Of The Cruel World Of Coding - But Hey,Sometimes We Find Collaborators.
+- 🐺 A Leftist Shamanist Coder Howling Like A Lone Wolf For Justice.
 - 🏕️ I Love Traveling And Exploring Nature.
 - 🗣️ I Speak English,Türkçe,Azərbaycan Türkcəsi,Deutsch And Farsi(Persian). 
 - 🔬 I’m Familiar With Conducting Most Clinical Trials.
