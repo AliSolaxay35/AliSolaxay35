@@ -13,7 +13,7 @@
 </p>  
 
 - 🧠 Extra Info:
-- 🐺 A Leftist Shamanist Coder Howling Like A Lone Wolf For Justice.
+- 🐺 A Leftist Shamanist Coder - Howling Like A Lone Wolf For Justice.
 - 🏕️ I Love Traveling And Exploring Nature.
 - 🗣️ I Speak English,Türkçe,Azərbaycan Türkcəsi,Deutsch And Farsi(Persian). 
 - 🔬 I’m Familiar With Conducting Most Clinical Trials.
