@@ -1,11 +1,12 @@
-- 👋 Hallo, I’m @AliSolaxay35.
+- 👋 Hallo, I'm @AliSolaxay35.
 - 🏗️ <p align="center">
   <img src="https://i.postimg.cc/9Mh8Wkb7/Untitled-Nero-AI-Image-Upscaler-Photo.jpg" alt="Brief Introduction - WLT" width="80%" />
 </p> 
 
 - 👀 About Me: I'm Passionate About Learning Python And AI Tools To Eventually Launch A Startup Focused On AI In Clinical Trials.
-- 🌱 I'm Currently Diving Into Python, Its Libraries, And MySQL; After Mastering These, My Next Goal Is To Explore MachineLearning And DeepLearning.
-- 💞️ I’m Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence To Improve My Skills And Grow Together.
+- 🌱 I'm Currently Diving Deep Into Python Libraries And MySQL, While Advancing My Skills In Machine Learning.  
+- Next Step: Explore Deep Learning And Expand My AI-Focused Projects. 
+- 💞️ I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence To Improve My Skills And Grow Together.
 - 📫 Contact:
 - Email:alisolaxay35wlt@gmail.com.
 - 🩻 <p align="center">
@@ -16,7 +17,8 @@
 - 🐺 A Leftist, Shamanist Coder — Howling Like A Lone Wolf For Justice. 
 - 🏕️ I Love Traveling And Exploring Nature.
 - 🗣️ I Speak English, Türkçe, Azərbaycan Türkcəsi, Deutsch And Farsi (Persian). 
-- 🔬 I’m Familiar With Conducting Most Clinical Trials.
+- 🔬 I'm Familiar With Conducting Most Clinical Trials.
+- 🎶 I'm Passionate About Azerbaijani Muğam And Traditional Instruments Like Tar And Qamança.
 - 🎮 One Of My Hobbies Is Video Games And 🎨 I Also Enjoy Artwork And Graphics.
 -  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisolaxay35" alt="alisolaxay35" /></a> </p>
 
