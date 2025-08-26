@@ -18,7 +18,7 @@
 - 🔬 I'm Familiar With Conducting Most Clinical Trials.
 - 🎶 I'm Passionate About Azerbaijani Muğam And Traditional Instruments Like Tar And Qamança.
 - 🎮 One Of My Hobbies Is Video Games And 🎨 I Also Enjoy Artwork And Graphics.
-- ## 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-solaxay35) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/as35wlt) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/alisolaxay35) 
