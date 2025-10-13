@@ -7,9 +7,11 @@
 - 🌱 I'm Currently Diving Deep Into Python Libraries And MySQL, While Advancing My Skills In Machine Learning.  
 - Next Step: Explore Deep Learning And Expand My AI-Focused Projects. 
 - 💞️ I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence To Improve My Skills And Grow Together.
-- 🩻 <p align="center">
-  <img src="https://i.ibb.co/7N0JxkrX/f2f5cf552a36.png" alt="The Future Of Medical Science With AI" width="80%" />
-</p>  
+- 🩻 <div align="center">
+  <img src="https://i.imgur.com/UKP5RfA.jpeg" 
+       alt="The Future Of Basic Medical Sciences In Artificial Intelligence" 
+       width="80%">
+</div>  
 
 - 🧠 Extra Info:
 - 🐺 A Leftist, Shamanist Coder — Howling Like A Lone Wolf For Justice. 
@@ -37,11 +39,12 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EABBA.svg?style=for-the-badge&logo=seaborn&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Cartopy](https://img.shields.io/badge/Cartopy-%230077B5.svg?style=for-the-badge&logoColor=white)
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)   
-
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AliSolaxay35&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
