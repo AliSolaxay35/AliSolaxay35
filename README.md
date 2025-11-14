@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/9Mh8Wkb7/Untitled-Nero-AI-Image-Upscaler-Photo.jpg" alt="Brief Introduction - WLT" width="80%" />
 </p> 
 
-- 👀 About Me: I'm Passionate About Learning Python And AI Tools To Eventually Launch A Startup Focused On AI In Clinical Trials.
+- 👀 About Me: I'm Passionate About Python And AI Development, Working Toward Building Innovative Projects At The Intersection Of Medicine And Biology.
 - 🌱 I'm Currently Diving Deep Into Python Libraries And MySQL, While Advancing My Skills In Machine Learning.  
 - Next Step: Explore Deep Learning And Expand My AI-Focused Projects. 
 - 💞️ I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence To Improve My Skills And Grow Together.
@@ -14,7 +14,7 @@
 </div>  
 
 - 🧠 Extra Info:
-- 🐺 A Leftist, Shamanist Coder — Howling Like A Lone Wolf For Justice. 
+- 🐺 A Leftist(Socialist), Shamanist(Tengrism) Coder — Howling Like A Lone Wolf For Justice. 
 - 🏕️ I Love Traveling And Exploring Nature.
 - 🗣️ I Speak English, Türkçe, Azərbaycan Türkcəsi, Deutsch And Farsi (Persian). 
 - 🔬 I'm Familiar With Conducting Most Clinical Trials.
