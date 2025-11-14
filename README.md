@@ -4,8 +4,8 @@
 </p> 
 
 - 👀 About Me: I'm Passionate About Python And AI Development, Working Toward Building Innovative Projects At The Intersection Of Medicine And Biology.
-- 🌱 I'm Currently Diving Deep Into Python Libraries And MySQL, While Advancing My Skills In Machine Learning.  
-- Next Step: Explore Deep Learning And Expand My AI-Focused Projects. 
+- 🌱 I'm Currently Exploring Python Libraries And MySQL, Having Completed My Machine Learning Course.
+- Next Step: Dive Into Deep Learning And Expand My AI-Focused Projects. 
 - 💞️ I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence To Improve My Skills And Grow Together.
 - 🩻 <div align="center">
   <img src="https://i.imgur.com/UKP5RfA.jpeg" 
@@ -16,7 +16,7 @@
 - 🧠 Extra Info:
 - 🐺 A Leftist(Socialist), Shamanist(Tengrism) Coder — Howling Like A Lone Wolf For Justice. 
 - 🏕️ I Love Traveling And Exploring Nature.
-- 🗣️ I Speak English, Türkçe, Azərbaycan Türkcəsi, Deutsch And Farsi (Persian). 
+- 🗣️ I Speak English, Türkçe, Azərbaycan Türkcəsi, Deutsch And Farsi. 
 - 🔬 I'm Familiar With Conducting Most Clinical Trials.
 - 🎶 I'm Passionate About Azerbaijani Muğam And Traditional Instruments Like Tar And Qamança.
 - 🎮 One Of My Hobbies Is Video Games And 🎨 I Also Enjoy Artwork And Graphics.
