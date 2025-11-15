@@ -14,7 +14,7 @@
 </div>  
 
 - 🧠 Extra Info:
-- 🐺 A Leftist(Socialist), Shamanist(Tengrism) Coder — Howling Like A Lone Wolf For Justice. 
+- 🐺 A Leftist (Socialist), Shamanist (Tengrism) Coder — Howling Like A Lone Wolf For Justice. 
 - 🏕️ I Love Traveling And Exploring Nature.
 - 🗣️ I Speak English, Türkçe, Azərbaycan Türkcəsi, Deutsch And Farsi. 
 - 🔬 I'm Familiar With Conducting Most Clinical Trials.
