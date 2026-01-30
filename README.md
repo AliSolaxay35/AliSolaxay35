@@ -1,6 +1,6 @@
 - 👋 Hallo, I'm @AliSolaxay35.
 - 🏗️ <p align="center">
-  <img src="https://i.postimg.cc/9Mh8Wkb7/Untitled-Nero-AI-Image-Upscaler-Photo.jpg" alt="Brief Introduction - WLT" width="80%" />
+  <img src="https://cdn.imgurl.ir/uploads/y581963_carbon_yeni_1.png" alt="Brief And Mysterious Introduction" width="80%" />
 </p> 
 
 - 👀 About Me: I'm Passionate About Python And AI Development, Working Toward Building Innovative Projects At The Intersection Of Medicine And Biology.
@@ -9,7 +9,7 @@
 - 💞️ I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence To Improve My Skills And Grow Together.
 - 🩻 <div align="center">
   <img src="https://i.imgur.com/UKP5RfA.jpeg" 
-       alt="The Future Of Basic Medical Sciences In Artificial Intelligence" 
+       alt="Yellow ImmuneCell Poster And The Future Of AI In Medicine And Biology" 
        width="80%">
 </div>  
 
