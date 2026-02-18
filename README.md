@@ -4,9 +4,9 @@
 </p> 
 
 - 👀 About Me: I'm Passionate About Python And AI Development, Working Toward Building Innovative Projects At The Intersection Of Medicine And Biology.
-- 🌱 I'm Currently Exploring Python Libraries And MySQL, Having Completed My Machine Learning Course.
-- Next Step: Dive Into Deep Learning And Expand My AI-Focused Projects. 
-- 💞️ I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence To Improve My Skills And Grow Together.
+- 🌱 I'm Currently Expanding My Skills In The Python Ecosystem And Working With Databases, After Completing My Machine Learning Journey.
+- Next Step: Diving Deeper Into Deep Learning And Building More Advanced AI Projects.
+- 💞️ I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence, So We Can Learn From Each Other, Improve Our Skills, And Grow Together.
 - 🩻 <div align="center">
   <img src="https://i.imgur.com/UKP5RfA.jpeg" 
        alt="Yellow ImmuneCell Poster And The Future Of AI In Medicine And Biology" 
@@ -40,6 +40,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EABBA.svg?style=for-the-badge&logo=seaborn&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Cartopy](https://img.shields.io/badge/Cartopy-%230077B5.svg?style=for-the-badge&logoColor=white)
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
