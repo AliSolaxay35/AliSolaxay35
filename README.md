@@ -1,7 +1,7 @@
 - 👋 Hallo, I'm @AliSolaxay35.
 - 🏗️ <p align="center">
-  <img src="https://kommodo.ai/i/xQG1mYPDlLpMo95HgcYQ" alt="Brief And Mysterious Introduction" width="80%" />
-</p> 
+  <img src="https://i.ibb.co/FkzGbkY2/carbon-yeni-1.png" alt="Brief And Mysterious Introduction" width="80%" />
+</p>
 
 - 👀 About Me: I'm Passionate About Python And AI Development, Working Toward Building Innovative Projects At The Intersection Of Medicine And Biology.
 - 🌱 I'm Currently Expanding My Skills In The Python Ecosystem And Working With Databases, After Completing My Machine Learning Journey.
