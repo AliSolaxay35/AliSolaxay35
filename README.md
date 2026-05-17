@@ -24,7 +24,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alisolaxay35wlt@gmail.com)
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/user/Ali-Solaxay35)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/Ali_Solaxay35)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@Ali_Solaxay35)
 
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/as35wlt)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/alisolaxay35)
