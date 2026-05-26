@@ -9,7 +9,7 @@
 - 💞️ I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence, So We Can Learn From Each Other, Improve Our Skills, And Grow Together.
 - 🩻 <div align="center">
   <img src="https://i.ibb.co/Q7MT29NZ/e4f48b20-590b-11f1-ad91-0b974b57bc4f-by-Lens.png" 
-       alt="Yellow ImmuneCell Poster And The Future Of AI In Medicine And Biology" 
+       alt="A Poster Of A Gray Wolf Howling, Giving Energy To A Yellow ImmuneCell Through A Network Of Neural Neurons" 
        width="80%">
 </div>  
 
