@@ -8,13 +8,13 @@
 - Next Step: Diving Deeper Into Deep Learning And Building More Advanced AI Projects.
 - 💞️ I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence, So We Can Learn From Each Other, Improve Our Skills, And Grow Together.
 - 🩻 <div align="center">
-  <img src="https://i.imgur.com/UKP5RfA.jpeg" 
+  <img src="https://i.ibb.co/Q7MT29NZ/e4f48b20-590b-11f1-ad91-0b974b57bc4f-by-Lens.png" 
        alt="Yellow ImmuneCell Poster And The Future Of AI In Medicine And Biology" 
        width="80%">
 </div>  
 
 - 🧠 Extra Info:
-- 🐺 A Leftist (Socialist), Shamanist (Tengrism) Coder — Howling Like A Lone Wolf For Justice. 
+- 🐺 A Social-Democratic Coder Inspired By Tengrism — Howling Like A Lone Wolf For Justice. 
 - 🏕️ I Love Traveling And Exploring Nature.
 - 🗣️ I Speak English, Türkçe, Azərbaycan Türkcəsi, Deutsch And Farsi. 
 - 🔬 I'm Familiar With Conducting Most Clinical Trials.
@@ -43,11 +43,11 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EABBA.svg?style=for-the-badge&logo=seaborn&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Cartopy](https://img.shields.io/badge/Cartopy-%230077B5.svg?style=for-the-badge&logoColor=white)
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AliSolaxay35&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -56,8 +56,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AliSolaxay35&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
