@@ -4,8 +4,8 @@
 </p>
 
 - 👀 About Me: I'm Passionate About Python And AI Development, Working Toward Building Innovative Projects At The Intersection Of Medicine And Biology.
-- 🌱 I'm Currently Expanding My Skills In The Python Ecosystem And Working With Databases, After Completing My Machine Learning Journey.
-- Next Step: Diving Deeper Into Deep Learning And Building More Advanced AI Projects.
+- 🌱 I'm Currently Expanding My Skills In The Python Ecosystem And Working With Databases, While Continuing To Grow In AI And Machine Learning.
+- Next Step: Building More Advanced AI And Deep Learning Projects.
 - 💞️ I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence, So We Can Learn From Each Other, Improve Our Skills, And Grow Together.
 - 🩻 <div align="center">
   <img src="https://i.ibb.co/Q7MT29NZ/e4f48b20-590b-11f1-ad91-0b974b57bc4f-by-Lens.png" 
