@@ -1,6 +1,8 @@
 - 👋 Hallo, I'm @AliSolaxay35.
 - 🏗️ <p align="center">
-  <img src="https://i.ibb.co/FkzGbkY2/carbon-yeni-1.png" alt="Brief And Mysterious Introduction" width="80%" />
+  <img src="https://i.ibb.co/q3mB4Bnh/b6eeab20-68b5-11f1-bb19-35ee8ca39920-by-Lens.jpg"
+       alt="A Glimpse Into The Founder And The Vision Ahead"
+       width="80%" />
 </p>
 
 - 👀 About Me: I'm Passionate About Python And AI Development, Working Toward Building Innovative Projects At The Intersection Of Medicine And Biology.
