@@ -22,15 +22,19 @@
 - 🔬 I'm Familiar With Conducting Most Clinical Trials.
 - 🎶 I'm Passionate About Azerbaijani Muğam And Traditional Instruments Like Tar And Qamança.
 - 🎮 One Of My Hobbies Is Video Games And 🎨 I Also Enjoy Artwork And Graphics.
-## 🌐 Socials:
+
+## 🌍 Professional Profiles:
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alisolaxay35wlt@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Ali-Solaxay)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/alisolaxay)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/alisolaxay35)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/as35wlt)
+
+## 🌐 Community:
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/user/Ali-Solaxay35)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@Ali_Solaxay35)
-
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/as35wlt)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/alisolaxay35)
-
 
 # 💻 Tech Stack:
 
