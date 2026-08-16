@@ -48,13 +48,17 @@ I'm Open To Collaborating With Developers And Programmers In The Field Of Artifi
 
 ## 🧠 `PS C:\Users\AliSolaxay35> Get-Content extra_info.txt`
 
-| 🐺 A Social-Democratic Coder Inspired By Tengrism — Howling Like A Lone Wolf For Justice.   |
-| ------------------------------------------------------------------------------------------- |
-| 🏕️ I Love Traveling And Exploring Nature.                                                  |
-| 🗣️ I Speak English, Türkçe, Azərbaycan Türkcəsi, Deutsch And Farsi.                        |
-| 🔬 I'm Familiar With Conducting Most Clinical Trials.                                       |
-| 🎶 I'm Passionate About Azerbaijani Muğam And Traditional Instruments Like Tar And Qamança. |
-| 🎮 One Of My Hobbies Is Video Games And 🎨 I Also Enjoy Artwork And Graphics.               |
+🐺 A Social-Democratic Coder Inspired By Tengrism — Howling Like A Lone Wolf For Justice.
+
+🏕️ I Love Traveling And Exploring Nature.
+
+🗣️ I Speak English, Türkçe, Azərbaycan Türkcəsi, Deutsch And Farsi.
+
+🔬 I'm Familiar With Conducting Most Clinical Trials.
+
+🎶 I'm Passionate About Azerbaijani Muğam And Traditional Instruments Like Tar And Qamança.
+
+🎮 One Of My Hobbies Is Video Games And 🎨 I Also Enjoy Artwork And Graphics.
 
 <br>
 
