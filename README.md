@@ -46,9 +46,9 @@ I'm Open To Collaborating With Developers And Programmers In The Field Of Artifi
 
 ---
 
-## 🧠 `PS C:\Users\AliSolaxay35> Get-Content extra_info.txt`
+##  `PS C:\Users\AliSolaxay35> Get-Content extra_info.txt`
 
-🐺 A Social-Democratic Coder Inspired By Tengrism — Howling Like A Lone Wolf For Justice.
+ A Social-Democratic Coder Inspired By Tengrism — Howling Like A Lone Wolf For Justice.
 
 🏕️ I Love Traveling And Exploring Nature.
 
@@ -64,7 +64,7 @@ I'm Open To Collaborating With Developers And Programmers In The Field Of Artifi
 
 ---
 
-## 🌍 `PS C:\Users\AliSolaxay35> Get-ChildItem professional_profiles`
+##  `PS C:\Users\AliSolaxay35> Get-ChildItem professional_profiles`
 
 <div align="center">
 
@@ -141,6 +141,14 @@ I'm Open To Collaborating With Developers And Programmers In The Field Of Artifi
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AliSolaxay35&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
+
+<br>
+
+---
+
+## 🔍 `PS C:\Users\AliSolaxay35> Get-ChildItem repositories`
+
+Feel Free To Explore My Other Repositories To Discover More Interesting Projects And Ideas.
 
 <br>
 
