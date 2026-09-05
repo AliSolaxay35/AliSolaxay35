@@ -1,34 +1,54 @@
-<div align="center">👋 Hallo, I'm @AliSolaxay35.
+<div align="center">
 
-"Python" • "AI" • "Medicine" • "Biology"
+# 👋 Hallo, I'm @AliSolaxay35.
 
-</div><br><div align="center"><img src="https://i.ibb.co/q3mB4Bnh/b6eeab20-68b5-11f1-bb19-35ee8ca39920-by-Lens.jpg"
-alt="A Glimpse Into The Founder And The Vision Ahead"
-width="80%" />
+### `Python` • `AI` • `Medicine` • `Biology`
 
-</div><br>---
+</div>
 
-👤 About Me
+<br>
 
-«🎯 Building My Path At The Intersection Of Technology, Medicine, And Biology.»
+<div align="center">
+
+<img src="https://i.ibb.co/q3mB4Bnh/b6eeab20-68b5-11f1-bb19-35ee8ca39920-by-Lens.jpg"
+  alt="A Glimpse Into The Founder And The Vision Ahead"
+  width="80%" />
+
+</div>
+
+<br>
+
+---
+
+## 👤 About Me
+
+> 🎯 Building My Path At The Intersection Of Technology, Medicine, And Biology.
 
 I'm Passionate About Python And AI Development, Working Toward Building Innovative Projects At The Intersection Of Medicine And Biology.
 
 I'm Currently Expanding My Skills In The Python Ecosystem And Working With Databases, While Continuing To Grow In AI And Machine Learning.
 
-Next Step: Building More Advanced AI And Deep Learning Projects.
+**Next Step:** Building More Advanced AI And Deep Learning Projects.
 
 I'm Open To Collaborating With Developers And Programmers In The Field Of Artificial Intelligence, So We Can Learn From Each Other, Improve Our Skills, And Grow Together.
 
-<br><div align="center"><img src="https://i.ibb.co/Q7MT29NZ/e4f48b20-590b-11f1-ad91-0b974b57bc4f-by-Lens.png"
-alt="A Poster Of A Gray Wolf Howling, Giving Energy To A Yellow ImmuneCell Through A Network Of Neural Neurons"
-width="80%" />
+<br>
 
-</div><br>---
+<div align="center">
 
-🧠 Extra Info
+<img src="https://i.ibb.co/Q7MT29NZ/e4f48b20-590b-11f1-ad91-0b974b57bc4f-by-Lens.png"
+  alt="A Poster Of A Gray Wolf Howling, Giving Energy To A Yellow ImmuneCell Through A Network Of Neural Neurons"
+  width="80%" />
 
-«🌲 A Few Things Beyond Code, AI, And Development.»
+</div>
+
+<br>
+
+---
+
+## 🧠 Extra Info
+
+> 🌲 A Few Things Beyond Code, AI, And Development.
 
 🐺 A Social-Democratic Coder Inspired By Tengrism — Howling Like A Lone Wolf For Justice.
 
@@ -42,53 +62,133 @@ width="80%" />
 
 🎮 One Of My Hobbies Is Video Games And 🎨 I Also Enjoy Artwork And Graphics.
 
-<br>---
+<br>
 
-🌐 Professional Profiles
+---
 
-<div align="center">""Email" (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)" (mailto:alisolaxay35wlt@gmail.com) ""Hugging Face" (https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)" (https://huggingface.co/Ali-Solaxay) ""Docker Hub" (https://img.shields.io/badge/Docker%20Hub-2496ED?logo=docker&logoColor=white)" (https://hub.docker.com/u/alisolaxay) ""Kaggle" (https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)" (https://www.kaggle.com/alisolaxay35) ""Stack Overflow" (https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)" (https://stackoverflow.com/users/as35wlt)
+## 🌐 Professional Profiles
 
-</div><br>---
+<div align="center">
 
-💬 Community
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alisolaxay35wlt@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Ali-Solaxay)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/alisolaxay)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/alisolaxay35)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/as35wlt)
 
-<div align="center">""Reddit" (https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)" (https://reddit.com/user/Ali-Solaxay35) ""Mastodon" (https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)" (https://mastodon.social/@Ali_Solaxay35)
+</div>
 
-</div><br>---
+<br>
 
-🛠️ Tech Stack
+---
 
-🧑‍💻 Development
+## 💬 Community
 
-<div>"GitHub" (https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) "Git" (https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
 
-</div>🐍 Python / AI
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/user/Ali-Solaxay35)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@Ali_Solaxay35)
 
-<div>"Python" (https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) "NumPy" (https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) "Pandas" (https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) "Matplotlib" (https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) "Seaborn" (https://img.shields.io/badge/Seaborn-4EABBA.svg?style=for-the-badge&logo=seaborn&logoColor=white) "Scikit-learn" (https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) "TensorFlow" (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) "PyTorch" (https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) "Hugging Face" (https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) "YOLO" (https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white) "Cartopy" (https://img.shields.io/badge/Cartopy-%230077B5.svg?style=for-the-badge&logoColor=white) "pydicom" (https://img.shields.io/badge/pydicom-005571?style=for-the-badge&logoColor=white) "NiBabel" (https://img.shields.io/badge/NiBabel-4B8BBE?style=for-the-badge&logoColor=white) "SimpleITK" (https://img.shields.io/badge/SimpleITK-2C3E50?style=for-the-badge&logoColor=white)
+</div>
 
-</div>🗄️ Databases / Tools
+<br>
 
-<div>"Anaconda" (https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) "Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) "MySQL" (https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) "PostgreSQL" (https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-</div><br>---
+## 🛠️ Tech Stack
 
-🚀 Projects & Repositories
+### 🧑‍💻 Development
+
+<div align="center">
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### 🐍 Python / AI
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EABBA.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white)
+![Cartopy](https://img.shields.io/badge/Cartopy-%230077B5.svg?style=for-the-badge&logoColor=white)
+![pydicom](https://img.shields.io/badge/pydicom-005571?style=for-the-badge&logoColor=white)
+![NiBabel](https://img.shields.io/badge/NiBabel-4B8BBE?style=for-the-badge&logoColor=white)
+![SimpleITK](https://img.shields.io/badge/SimpleITK-2C3E50?style=for-the-badge&logoColor=white)
+
+</div>
+
+### 🗄️ Databases / Tools
+
+<div align="center">
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+## 🚀 Projects & Repositories
 
 Explore My Repositories To Discover My Projects, Experiments, And Ideas.
 
-<br>---
+<br>
 
-📊 GitHub Activity
+---
 
-<div align="center"><img src="https://github-readme-stats.shion.dev/api?username=AliSolaxay35&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br><img src="https://streak-stats.demolab.com/?user=AliSolaxay35&theme=dark&hide_border=true" /><br><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AliSolaxay35&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></div><br>---
+## 📊 GitHub Activity
 
-💭 Quote
+<div align="center">
 
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div><br>---
+<img src="https://github-readme-stats.shion.dev/api?username=AliSolaxay35&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-<div align="center">🫂 Thank You For Reading My README.md Profile.
+<br>
 
-</div><!---
+<img src="https://streak-stats.demolab.com/?user=AliSolaxay35&theme=dark&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AliSolaxay35&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+<br>
+
+---
+
+## 💭 Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 🫂 Thank You For Reading My README.md Profile.
+
+</div>
+
+<!---
 AliSolaxay35/AliSolaxay35 is a ✨ special ✨ repository because this README.md file appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
