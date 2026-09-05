@@ -48,7 +48,7 @@ I'm Open To Collaborating With Developers And Programmers In The Field Of Artifi
 
 ##  `PS C:\Users\AliSolaxay35> Get-Content extra_info.txt`
 
- A Social-Democratic Coder Inspired By Tengrism — Howling Like A Lone Wolf For Justice.
+🐺 A Social-Democratic Coder Inspired By Tengrism — Howling Like A Lone Wolf For Justice.
 
 🏕️ I Love Traveling And Exploring Nature.
 
