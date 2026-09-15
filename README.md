@@ -120,6 +120,7 @@ I'm Open To Collaborating With Developers And Programmers In The Field Of Artifi
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![Cartopy](https://img.shields.io/badge/Cartopy-%230077B5.svg?style=for-the-badge&logoColor=white)
 ![pydicom](https://img.shields.io/badge/pydicom-005571?style=for-the-badge&logoColor=white)
 ![NiBabel](https://img.shields.io/badge/NiBabel-4B8BBE?style=for-the-badge&logoColor=white)
